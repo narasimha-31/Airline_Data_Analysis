@@ -45,7 +45,7 @@ Along with data storytelling in Tableau, we also built a fully responsive web in
 
 ---
 
-## 📸 Overview
+## 📸 Preview
 
 ![Dashboard Preview](overview.png)  
 
