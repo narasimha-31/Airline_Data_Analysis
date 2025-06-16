@@ -47,7 +47,7 @@ Along with data storytelling in Tableau, we also built a fully responsive web in
 
 ## 📸 Overview
 
-![Dashboard Preview](Airline_Data_Analysis/overview.png)  
+![Dashboard Preview]([Airline_Data_Analysis/overview.png](https://github.com/narasimha-31/Airline_Data_Analysis/blob/main/overview.png))  
 *Passenger Volume by Airline*
 
 ---
