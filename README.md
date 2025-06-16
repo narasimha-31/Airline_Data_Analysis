@@ -33,10 +33,7 @@ This project presents a visual analysis of U.S. airline passenger and cargo traf
 Along with data storytelling in Tableau, we also built a fully responsive web interface to host these visualizations. The site features:
 
 - Custom background + blurred overlay for aesthetic focus  
-- Hover animations and dynamic layout  
 - Mobile optimization for a clean UX on all devices
-
-> You can find the code for the web interface [in this repo](#) or explore it via the live link above.
 
 ---
 
@@ -48,7 +45,7 @@ Along with data storytelling in Tableau, we also built a fully responsive web in
 
 ---
 
-## 📸 Sneak Peek
+## 📸 Overview
 
 ![Dashboard Preview](Assets/images/preview1.png)  
 *Passenger Volume by Airline*
@@ -58,4 +55,4 @@ Along with data storytelling in Tableau, we also built a fully responsive web in
 ## 📬 Contact
 
 Built with ❤️ by **Narasimha Royal**  
-[LinkedIn](https://www.linkedin.com/in/narasimha-royal)  
+[LinkedIn](https://www.linkedin.com/in/narasimha31/)  
