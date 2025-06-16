@@ -32,7 +32,7 @@ Along with data storytelling in Tableau, we also built a fully responsive web in
 ---
 
 ## 🔗 Live Visualization Web Page  
-[Click here to explore the dashboards](https://airline56.netlify.app/)  
+[Click here to explore](https://airline56.netlify.app/)  
 <!-- Replace # with the actual deployed link -->
 
 ---
