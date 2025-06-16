@@ -16,7 +16,7 @@ This project presents a visual analysis of U.S. airline passenger and cargo traf
    Compare total passenger counts handled by major U.S. airlines over the analysis period.
 
 3. **Total Passenger Volume (Bubble Chart)**  
-   A visual representation of airline dominance based on total traffic—scaled proportionally.
+   A visual representation of airline dominance based on total traffic, scaled proportionally.
 
 4. **Cargo Movement Over Time**  
    Highlights cargo performance trends by airline over the years.
