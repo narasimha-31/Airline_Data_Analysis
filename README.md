@@ -23,17 +23,17 @@ This project presents a visual analysis of U.S. airline passenger and cargo traf
 
 ---
 
-## 🔗 Live Visualization Web Page  
-[Click here to explore the dashboards](https://airline56.netlify.app/)  
-<!-- Replace # with the actual deployed link -->
-
----
-
 ## 🌐 Bonus – Web Experience  
 Along with data storytelling in Tableau, we also built a fully responsive web interface to host these visualizations. The site features:
 
 - Custom background + blurred overlay for aesthetic focus  
 - Mobile optimization for a clean UX on all devices
+
+---
+
+## 🔗 Live Visualization Web Page  
+[Click here to explore the dashboards](https://airline56.netlify.app/)  
+<!-- Replace # with the actual deployed link -->
 
 ---
 
