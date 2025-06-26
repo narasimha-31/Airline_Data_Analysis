@@ -56,7 +56,7 @@ Built with Tableau Public and hosted on a responsive custom web page.
 
 ---
 
-### 👨‍💻 Made By
+###  Made By
 
 **Narasimha Royal**  
 _Masters in Computer Science @ University of Houston_
