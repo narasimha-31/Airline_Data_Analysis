@@ -1,58 +1,67 @@
-# ✈️ Airline Data Analysis – Tableau Visualizations
+<h1 align="center">✈️ Airline Data Analysis – Tableau Visualizations</h1>
 
-This project presents a visual analysis of U.S. airline passenger and cargo traffic trends using Tableau. The dashboards provide an interactive overview of quarterly traffic volumes, airline-wise passenger data, and total cargo movement across years.
-
-> 📊 Built using Tableau Public for interactive visualizations  
-> 🖥️ Enhanced with a custom-designed web page (link below) to showcase insights in a visually engaging format
-
----
-
-## 📌 Key Visualizations
-
-1. **Quarterly Traffic Analysis**  
-   Breakdown of total air traffic by quarter across multiple years, highlighting seasonal patterns and COVID-era disruptions.
-
-2. **Passenger Volume by Airline**  
-   Compare total passenger counts handled by major U.S. airlines over the analysis period.
-
-3. **Total Passenger Volume (Bubble Chart)**  
-   A visual representation of airline dominance based on total traffic, scaled proportionally.
-
-4. **Cargo Movement Over Time**  
-   Highlights cargo performance trends by airline over the years.
+<p align="center">
+Interactive dashboards highlighting key trends in U.S. airline passenger and cargo traffic.<br>
+Built with Tableau Public and hosted on a responsive custom web page.
+</p>
 
 ---
 
-## 🌐 Bonus – Web Experience  
-Along with data storytelling in Tableau, we also built a fully responsive web interface to host these visualizations. The site features:
-
-- Custom background + blurred overlay for aesthetic focus  
-- Mobile optimization for a clean UX on all devices
+### 🔗 Live Demo  
+👉 [Explore the Visualization Web Page](https://airline56.netlify.app/)
 
 ---
 
-## 🔗 Live Visualization Web Page  
-[Click here to explore](https://airline56.netlify.app/)  
-<!-- Replace # with the actual deployed link -->
+### 📊 Key Dashboards
+
+- **📅 Quarterly Traffic Trends**  
+  Visualizes seasonal air traffic patterns and COVID-19 impact.
+
+- **🛫 Passenger Volume by Airline**  
+  Compares top U.S. airlines based on passenger data.
+
+- **🔵 Total Passenger Bubble Chart**  
+  Shows airline dominance using scalable bubbles.
+
+- **📦 Cargo Movement Over Time**  
+  Displays yearly cargo performance trends by airline.
 
 ---
 
-## 📁 Tools Used
+### 🌐 Web Experience Highlights
 
-- Tableau Public  
-- HTML, CSS, JavaScript (for the interactive web shell)  
-- Visual Studio Code
-
----
-
-## 📸 Preview
-
-![Dashboard Preview](overview.png)  
-
+- Fully responsive layout with mobile-first design  
+- Clean visual hierarchy using background blur and scrollable UI  
+- Seamless embedding of interactive Tableau sheets
 
 ---
 
-## 📬 Contact
+### 🧰 Tech Stack
 
-Built with ❤️ by **Narasimha Royal**  
-[LinkedIn](https://www.linkedin.com/in/narasimha31/)  
+<div align="left">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-F16529?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</div>
+
+---
+
+### 📸 Screenshots
+
+| Dashboard Overview | Bubble Chart View |
+|--------------------|-------------------|
+| ![Overview](./screenshots/overview.png) | ![Bubble](./screenshots/bubble.png) |
+
+> 💡 Add more images in the `/screenshots` folder for quick preview.
+
+---
+
+### 👨‍💻 Made By
+
+**Narasimha Royal**  
+_Masters in Computer Science @ University of Houston_
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/narasimha31/)
+
+---
