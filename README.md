@@ -36,7 +36,7 @@ Built with Tableau Public and hosted on a responsive custom web page.
 
 ---
 
-### 🧰 Tech Stack
+### Technologies Used
 
 <div align="left">
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
