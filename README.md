@@ -53,7 +53,6 @@ Built with Tableau Public and hosted on a responsive custom web page.
 |--------------------|-------------------|
 | ![Overview](./overview.png) | ![Bubble](./screenshots/bubble.png) |
 
-> 💡 Add more images in the `/screenshots` folder for quick preview.
 
 ---
 
