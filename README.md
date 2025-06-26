@@ -51,7 +51,7 @@ Built with Tableau Public and hosted on a responsive custom web page.
 
 | Dashboard Overview | Bubble Chart View |
 |--------------------|-------------------|
-| ![Overview](./screenshots/overview.png) | ![Bubble](./screenshots/bubble.png) |
+| ![Overview](./overview.png) | ![Bubble](./screenshots/bubble.png) |
 
 > 💡 Add more images in the `/screenshots` folder for quick preview.
 
