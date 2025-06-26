@@ -61,6 +61,6 @@ Built with Tableau Public and hosted on a responsive custom web page.
 **Narasimha Royal**  
 _Masters in Computer Science @ University of Houston_
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/narasimha31/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/narasimha31)
 
 ---
