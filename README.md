@@ -49,9 +49,9 @@ Built with Tableau Public and hosted on a responsive custom web page.
 
 ### 📸 Screenshots
 
-| Dashboard Overview | Bubble Chart View |
-|--------------------|-------------------|
-| ![Overview](./overview.png) | ![Bubble](./screenshots/bubble.png) |
+| Dashboard Overview | 
+|--------------------|
+| ![Overview](./overview.png) | 
 
 
 ---
