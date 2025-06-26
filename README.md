@@ -7,7 +7,7 @@ Built with Tableau Public and hosted on a responsive custom web page.
 
 ---
 
-### 🔗 Live Demo  
+### Live Demo  
 👉 [Explore the Visualization Web Page](https://airline56.netlify.app/)
 
 ---
