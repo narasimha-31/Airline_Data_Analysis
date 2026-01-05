@@ -6,9 +6,12 @@ Built with Tableau Public and hosted on a responsive custom web page.
 </p>
 
 ---
-
-### Live Demo  
+### Tableau Profile
+https://public.tableau.com/app/profile/narasimha.royal/viz/BubbleChartPassengerVol/BubbleChartPassengerVol
+### Live (Might not display the graphs, better check my tableau profile for more)  
 👉 https://airline56.netlify.app/
+
+
 
 ---
 
