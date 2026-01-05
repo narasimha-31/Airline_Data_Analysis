@@ -8,7 +8,7 @@ Built with Tableau Public and hosted on a responsive custom web page.
 ---
 ### Tableau Profile
 https://public.tableau.com/app/profile/narasimha.royal/viz/BubbleChartPassengerVol/BubbleChartPassengerVol
-### Live (Might not display the graphs, better check my tableau profile for more)  
+### Live Site(If the visualizations are not displaying, they can be viewed directly on my Tableau profile)  
 👉 https://airline56.netlify.app/
 
 
